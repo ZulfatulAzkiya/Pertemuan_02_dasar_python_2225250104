@@ -1,4 +1,4 @@
-# pertemuan-02-dasar-python-2225250104
+## pertemuan-02-dasar-python-2225250104
 
 ## Identitas
 
@@ -11,20 +11,17 @@
 Repository ini digunakan untuk mengumpulkan latihan dasar Python dan tugas kalkulator koordinat pada Pertemuan 02. Program dibuat dan dijalankan menggunakan VS Code.
 
 ## Daftar dan Fungsi Berkas
-
-| Berkas | Fungsi |
-|---|---|
-| `latihan/01_biodata.py` | Menampilkan biodata dan menghitung perkiraan umur. |
-| `latihan/02_persegi_panjang.py` | Menghitung luas dan keliling persegi panjang. |
-| `latihan/03_konversi_suhu.py` | Mengonversi suhu Celsius ke Fahrenheit dan Kelvin. |
-| `latihan/04_nilai_akhir.py` | Menghitung nilai akhir berdasarkan nilai tugas, UTS, dan UAS. |
-| `tugas/kalkulator_koordinat.py` | Menghitung perubahan koordinat, jarak, dan titik tengah dari dua titik. |
+# Daftar dan Fungsi Berkas
+ `latihan/01_biodata.py` Menampilkan biodata dan menghitung perkiraan umur. 
+ `latihan/02_persegi_panjang.py` Menghitung luas dan keliling persegi panjang. 
+ `latihan/03_konversi_suhu.py`  Mengonversi suhu Celsius ke Fahrenheit dan Kelvin. 
+ `latihan/04_nilai_akhir.py`  Menghitung nilai akhir berdasarkan nilai tugas, UTS, dan UAS. 
+ `tugas/kalkulator_koordinat.py`  Menghitung perubahan koordinat, jarak, dan titik tengah dari dua titik. 
 
 ## Cara Menjalankan Program
 
 Buka terminal pada folder repository, kemudian jalankan:
 
-```bash
 python latihan/01_biodata.py
 python latihan/02_persegi_panjang.py
 python latihan/03_konversi_suhu.py
@@ -47,4 +44,4 @@ python tugas/kalkulator_koordinat.py
 - Bahan Ajar Dasar Python di VS Code dan Pengumpulan melalui GitHub – Pertemuan 02.
 - Python Software Foundation. The Python Tutorial.
 - Visual Studio Code. Getting Started with Python in VS Code.
-- GitHub Docs. Creating a New Repository.
+- GitHub Docs. 
