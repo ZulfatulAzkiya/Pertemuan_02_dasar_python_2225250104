@@ -12,11 +12,11 @@ Repository ini digunakan untuk mengumpulkan latihan dasar Python dan tugas kalku
 
 ## Daftar dan Fungsi Berkas
 # Daftar dan Fungsi Berkas
- `latihan/01_biodata.py` Menampilkan biodata dan menghitung perkiraan umur. 
- `latihan/02_persegi_panjang.py` Menghitung luas dan keliling persegi panjang. 
- `latihan/03_konversi_suhu.py`  Mengonversi suhu Celsius ke Fahrenheit dan Kelvin. 
- `latihan/04_nilai_akhir.py`  Menghitung nilai akhir berdasarkan nilai tugas, UTS, dan UAS. 
- `tugas/kalkulator_koordinat.py`  Menghitung perubahan koordinat, jarak, dan titik tengah dari dua titik. 
+- `latihan/01_biodata.py` Menampilkan biodata dan menghitung perkiraan umur. 
+- `latihan/02_persegi_panjang.py` Menghitung luas dan keliling persegi panjang. 
+- `latihan/03_konversi_suhu.py`  Mengonversi suhu Celsius ke Fahrenheit dan Kelvin. 
+- `latihan/04_nilai_akhir.py`  Menghitung nilai akhir berdasarkan nilai tugas, UTS, dan UAS. 
+- `tugas/kalkulator_koordinat.py`  Menghitung perubahan koordinat, jarak, dan titik tengah dari dua titik. 
 
 ## Cara Menjalankan Program
 
